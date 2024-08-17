@@ -13,6 +13,7 @@
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Vinicius-AstroJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
+  <img align="center" alt="Figma-AstroJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 </div>
 
