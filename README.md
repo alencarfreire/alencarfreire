@@ -25,3 +25,18 @@
   <a href="https://www.linkedin.com/in/vinicius-a-freire/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<table  align="left">
+
+<row>
+
+<td>
+
+<!-- Card -->
+
+<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=alencarfreire&layout=compact&theme=dark'></td><td><img  height='172'  src='https://github-readme-stats.vercel.app/api?username=alencarfreire&show_icons=true&theme=dark'>
+</td>
+
+</row>
+
+</table>
