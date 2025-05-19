@@ -2,20 +2,9 @@
 
 
 - 🔭 I’m a Front-end Developer
-- ✨Skills: HTML, CSS, JavaScript, TailwindCSS, AstroJS
-- 🌱 Learning: React
+- ✨Skills: HTML, CSS, Javascript, Typescript, WordPress, React Native, ReactJS, PHP, NextJS, TailwindCSS
+- 🌱 Learning: PHP
 - 📧: alencarfreire@gmail.com
-- 😄 Pronouns: He/Him
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vinicius-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Vinicius-AstroJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
-  <img align="center" alt="Figma-AstroJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
-</div>
 
   ##
 
