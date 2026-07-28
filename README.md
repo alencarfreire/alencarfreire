@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Front-end Developer
 - ✨Skills: HTML, CSS, Javascript, Typescript, WordPress, React Native, ReactJS, PHP, NextJS, TailwindCSS
-- 🌱 Learning: PHP
+- 🌱 Learning: Rails, Java
 - 📧: alencarfreire@gmail.com
 
   ##
