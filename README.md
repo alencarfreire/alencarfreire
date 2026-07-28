@@ -1,7 +1,7 @@
 ### Hi there! I'm Vinícius ✌ 👋
 
 
-- 🔭 I’m a Front-end Developer
+- 🔭 I’m a FullStack Developer
 - ✨Skills: HTML, CSS, Javascript, Typescript, WordPress, React Native, ReactJS, PHP, NextJS, TailwindCSS
 - 🌱 Learning: Rails, Java
 - 📧: alencarfreire@gmail.com
