@@ -19,13 +19,6 @@
 
 <row>
 
-<td>
-
-<!-- Card -->
-
-<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=alencarfreire&layout=compact&theme=dark'></td><td><img  height='172'  src='https://github-readme-stats.vercel.app/api?username=alencarfreire&show_icons=true&theme=dark'>
-</td>
-
 </row>
 
 </table>
